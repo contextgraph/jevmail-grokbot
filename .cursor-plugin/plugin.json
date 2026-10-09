@@ -1,0 +1,24 @@
+{
+  "name": "jevmail",
+  "displayName": "Jevmail",
+  "version": "0.1.0",
+  "description": "Connects your agent to Jevmail and makes it score every email draft against your own sent Gmail before showing it to you.",
+  "author": {
+    "name": "Context Graph"
+  },
+  "homepage": "https://jevmail.xyz",
+  "repository": "https://github.com/contextgraph/jevmail-grokbot",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "gmail",
+    "drafts",
+    "writing",
+    "scoring",
+    "mcp",
+    "jevmail"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "skills/",
+  "mcpServers": "mcp.json"
+}
